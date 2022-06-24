@@ -4,7 +4,7 @@ user-guide-breadcrumb: Control Panel Tutorials
 user-guide-description: Control Panel Tutorials
 ---
 
-# Control Panel Tutorials {#tutorial}
+# Control Panel Tutorials {#tutorials}
 
 + [Overview](overview.md)
 
