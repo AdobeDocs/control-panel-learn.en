@@ -3,26 +3,25 @@ title: Control Panel - Overview
 description: The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 landing-page-description: The Control Panel allows Campaign administrators to monitor key assets and perform administrative tasks, such as managing SFTP storage, GPG keys, or subdomains and certificates.
 feature: Control Panel
-kt: 3262
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
 ---
+
 # Control Panel -  Overview
 
 The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 
 ## What's new
 
-* **[Monitoring databases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Monitor workflows](/help/performance-monitoring/monitor-workflows.md)**
   
-    *Learn how to monitor the database usage of your instances.*
+    *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
 
-* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-    
-    *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
+* **[Monitor throughputs and latency ](/help/performance-monitoring/montor-throughputs-and-latency.md)**
+    *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
 See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html) for more information on the latest product releases.
 
