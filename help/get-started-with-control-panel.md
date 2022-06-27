@@ -15,10 +15,8 @@ recommendations: noDisplay
 # Get started with [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
->
->* Control Panel is restricted to Admin users. [Learn more](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html#discover-control-panel)
->
->* For Campaign v7, deployment restrictions apply. [Learn more](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
+
+> For Campaign v7, deployment restrictions apply. [Learn more](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#v7-restrictions)
 
 [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
@@ -53,5 +51,7 @@ Administrator rights are required to access to the [!UICONTROL Control Panel].
 The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
+[Learn more](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html#discover-control-panel) about managing permissions. 
 
 See the [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) for additional resources.
