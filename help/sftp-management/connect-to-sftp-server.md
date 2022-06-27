@@ -1,5 +1,5 @@
 ---
-title: Connecting to an SFTP Server
+title: Connect to an SFTP Server
 description: Learn how to connect to your SFTP Server using a client SFTP application, using the keys you have stored in the Control Panel.
 feature: Control Panel
 kt: 2924
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 ---
-# Connecting to an SFTP server
+# Connect to an SFTP server
 
 ## Accessing Control Panel SFTP Management
 

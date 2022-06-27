@@ -1,5 +1,5 @@
 ---
-title: Getting started with Control Panel
+title: Get started with Control Panel
 description: Learn how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 feature: Control Panel
 kt: 6388
@@ -12,15 +12,15 @@ level: Experienced
 recommendations: noDisplay
 ---
 
-# Getting started with [!UICONTROL Control Panel] {#control-panel}
+# Get started with [!UICONTROL Control Panel] {#control-panel}
 
->[!NOTE]
+>[!CAUTION]
 >
->Control Panel is accessible to Admin users only. Learn more about permissions in [this section](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html#discover-control-panel).
+>* Control Panel is restricted to Admin users. [Learn more](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html#discover-control-panel)
 >
->For Campaign Classic v7, your instance must be hosted on Amazon Web Services (AWS) and upgraded to the latest [Campaign stable build](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html#rn-statuses) (or to build 9032 or higher). Learn how to check your version in [this section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html#getting-your-campaign-version). To check if your instance is hosted on AWS, follow the steps detailed in [this page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws).
+>* For Campaign v7, deployment restrictions apply. [Learn more](faq.md#v7-restrictions)
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 
@@ -54,6 +54,4 @@ The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-## Additional resources
-
-* [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+See the [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) for additional resources.

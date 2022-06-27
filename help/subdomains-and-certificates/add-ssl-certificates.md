@@ -1,5 +1,5 @@
 ---
-title: Adding SSL certificates
+title: Add SSL certificates
 description: Learn how to add SSL certificates to secure your subdomains.
 feature: Control Panel
 kt: 4219
@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 ---
 
-# Adding SSL certificates
+# Add SSL certificates
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to add SSL certificates to secure your subdomains.
 
@@ -30,7 +30,7 @@ Adding SSL certificates requires three steps:
 
 ### 1. Generate Certificate Signing Requests
 
-The Certificate Signing Request (CSR) is required for the purchase of a SSL certificate. I needs to be generated for the instance and the subdomains you are planning to secure.
+The Certificate Signing Request (CSR) is required for the purchase of an SSL certificate. It must be generated for the instance and the subdomains you are planning to secure.
 
  The video below describes how to generate a Certificate Signing Request in Control Panel.
 
@@ -40,11 +40,11 @@ The Certificate Signing Request (CSR) is required for the purchase of a SSL cert
 
 ### 2. Purchase SSL Certificate
 
-After obtaining the CSR, you will need to purchase the SSL certificate from a Certificate Authority approved by your organization.
+After obtaining the CSR, you must purchase the SSL certificate from a Certificate Authority approved by your organization.
 
 ### 3. Install SSL Certificates
 
-Once you have obtained the SSL certificate it will need to be installed for the subdomains you are planning on securing.
+Once you have obtained the SSL certificate, it must be installed for the subdomains you are planning on securing.
 
 The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 

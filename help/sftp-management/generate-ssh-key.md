@@ -1,5 +1,5 @@
 ---
-title: Generating an SSH Key
+title: Generate an SSH Key
 description: Learn how to generate an SSH key using a terminal and how to store the public version of the key in the Control Panel.
 feature: Control Panel
 kt: 6348
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 ---
-# Generating an SSH Key
+# Generate an SSH Key
 
 You must be able to generate an SSH key in order to be able to add it to the Control Panel.
 
@@ -28,5 +28,3 @@ To access the SFTP Management in Control Panel, go to:
 Learn how to generate an SSH key using a terminal and how to store the public version of the key in the Control Panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-
-*How to create an SSH key (2:16 min)*

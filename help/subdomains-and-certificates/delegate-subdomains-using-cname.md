@@ -1,5 +1,5 @@
 ---
-title: Delegating subdomains using CNAME
+title: Delegate subdomains using CNAME
 description: Learn how to fully delegate a subdomain to Adobe Campaign.
 feature: Control Panel
 kt: 6015
@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 ---
-# Delegating subdomains using CNAME
+# Delegate subdomains using CNAME
 
-To be able to start sending emails or publish landing pages with Adobe Campaign you need to setup a new subdomain.
+To be able to start sending emails or publish landing pages with Adobe Campaign, you must set up a new subdomain.
 
 Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.
 

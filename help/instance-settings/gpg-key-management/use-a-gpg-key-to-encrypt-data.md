@@ -1,5 +1,5 @@
 ---
-title: Using a GPG key to encrypt data 
+title: Use a GPG key to encrypt data 
 description: Learn how to export data using a GPG key installed on Control Panel.
 feature: Control Panel
 kt: 5793
@@ -10,8 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 ---
-# Using a GPG key to encrypt data 
+# Use a GPG key to encrypt data 
 
-Learn how to export data using a GPG key installed on Control Panel.
+Learn how to export data using a GPG key installed on Control Panel  
+
+## Adobe Campaign Standard
+
+>[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
+
+## Adobe Campaign V7/V8
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
