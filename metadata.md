@@ -5,7 +5,7 @@ product: experience cloud
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/control-panel-learn.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use
