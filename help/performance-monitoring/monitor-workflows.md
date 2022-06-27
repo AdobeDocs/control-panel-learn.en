@@ -17,4 +17,4 @@ Learn how to monitor your workflows' temporary storage usage and where to config
 
 >[!VIDEO](https://video.tv.adobe.com/v/344309/?quality=12)
 
-For more information see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=en) and the [workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en).
+For more information, see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/workflow-monitoring.html?lang=en) and the [workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en).
