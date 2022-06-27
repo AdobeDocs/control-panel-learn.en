@@ -19,7 +19,7 @@ Learn how to monitor delivery throughputs and transactional message latencies of
 
 ## Additional resources
 
-[Control Panel Documentation on Throughputs and latency Monitoring](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=en#)
-[OOTB Delivery dashboards](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=en)
-[OOTB Access transactional messaging reports (v7 only)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=en)
-[Delivery best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=en)
+* [Control Panel Documentation on Throughputs and latency Monitoring](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=en#)
+* [OOTB Delivery dashboards](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=en)
+* [OOTB Access transactional messaging reports (Campaign v7 only)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=en)
+* [Delivery best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=en)
