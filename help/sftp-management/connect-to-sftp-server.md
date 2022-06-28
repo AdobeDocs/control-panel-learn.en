@@ -9,6 +9,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
 ---
 # Connect to an SFTP server
 

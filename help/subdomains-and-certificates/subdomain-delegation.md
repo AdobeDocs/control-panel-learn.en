@@ -9,8 +9,8 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 ---
-
 # Full subdomain delegation
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.

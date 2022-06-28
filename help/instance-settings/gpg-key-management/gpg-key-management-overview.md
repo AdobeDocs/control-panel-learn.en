@@ -5,6 +5,7 @@ feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
+exl-id: 8cc85dd6-d0ef-47db-be03-45325c547b70
 ---
 # GPG key management - Overview
 

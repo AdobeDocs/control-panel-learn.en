@@ -9,6 +9,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
 ---
 # Delegate subdomains using CNAME
 

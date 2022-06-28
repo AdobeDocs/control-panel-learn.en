@@ -9,6 +9,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 436575ea-d53c-409a-8d66-48217c9f9a83
 ---
 # [!UICONTROL Google TXT record] management
 

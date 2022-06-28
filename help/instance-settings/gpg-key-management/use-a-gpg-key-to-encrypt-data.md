@@ -1,5 +1,5 @@
 ---
-title: Use a GPG key to encrypt data 
+title: Use a GPG key to encrypt data
 description: Learn how to export data using a GPG key installed on Control Panel.
 feature: Control Panel
 kt: 5793
@@ -9,6 +9,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 8b2ff6b2-6836-4ab1-953b-2a9c81ec576d
 ---
 # Use a GPG key to encrypt data 
 

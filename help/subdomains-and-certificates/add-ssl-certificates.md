@@ -9,8 +9,8 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 ---
-
 # Add SSL certificates
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to add SSL certificates to secure your subdomains.

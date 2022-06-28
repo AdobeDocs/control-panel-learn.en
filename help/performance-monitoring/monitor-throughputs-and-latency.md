@@ -1,5 +1,5 @@
 ---
-title: Monitor throughputs and latency 
+title: Monitor throughputs and latency
 description: Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.
 feature: Control Panel
 kt: 10526
@@ -10,6 +10,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
 ---
 # Monitor throughputs and latency
 

@@ -1,5 +1,5 @@
 ---
-title: Allowlist an IP range 
+title: Allowlist an IP range
 description: Learn how you can add an IP address range to the allowlist.
 feature: Control Panel
 kt: 6430
@@ -10,6 +10,7 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
+exl-id: bb07c575-a4db-4485-aae8-7c249c8d183b
 ---
 # Allowlist an IP range 
 
