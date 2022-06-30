@@ -21,6 +21,7 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
     *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
 
 * **[Monitor throughputs and latency ](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+
     *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
 See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html) for more information on the latest product releases.
