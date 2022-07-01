@@ -9,8 +9,8 @@ activity: use
 team: PM
 role: Admin
 level: Beginner
+exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
 ---
-
 # Control Panel for hybrid hosting models
 
 Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.
