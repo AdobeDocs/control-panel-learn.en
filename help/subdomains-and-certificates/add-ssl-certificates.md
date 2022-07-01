@@ -38,6 +38,19 @@ The Certificate Signing Request (CSR) is required for the purchase of an SSL cer
 
 *Generate Certificate Signing Requests (02:36 min)*
 
+>[!NOTE]
+>
+>Several enhancements have been made to the CSR generation process:
+>
+>* When generating a CSR, you can now select one of the included subdomains as the Common Name.
+>* You can now copy the CSR summary before generating the CSR.
+>* Once a CSR has been generated, you can download it again from the job logs. This capability does not apply to certificates generated before this release.
+>
+>![Download CSR](/help/assets/download-csr.gif)
+>
+>See the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) to learn more.
+>
+
 ### 2. Purchase SSL Certificate
 
 After obtaining the CSR, you must purchase the SSL certificate from a Certificate Authority approved by your organization.
@@ -51,3 +64,5 @@ The video below explains how to install SSL certificates in [!UICONTROL Control 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *Install SSL Certificates (01:25 min)*
+
+
