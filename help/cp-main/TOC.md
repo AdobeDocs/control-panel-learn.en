@@ -12,6 +12,7 @@ level: Experienced
 
 + [Control Panel](/help/control-panel-overview.md)
 + [Get started with Control Panel](/help/get-started-with-control-panel.md)
++ [Control Panel for hybrid hosting models](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP management {#sftp-management}
   + [Monitor server capacity](/help/sftp-management/monitor-server-capacity.md)
   + [Allowlist IP ranges](/help/sftp-management/allowlist-ip-range.md)
