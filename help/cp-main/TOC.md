@@ -8,7 +8,7 @@ role: Admin
 level: Experienced
 ---
 
-# Adobe Campaign Control Panel - Tutorials {#control-panel}
+# Adobe Campaign Control Panel - Tutorials {#tutorials}
 
 + [Control Panel](/help/control-panel-overview.md)
 + [Get started with Control Panel](/help/get-started-with-control-panel.md)
