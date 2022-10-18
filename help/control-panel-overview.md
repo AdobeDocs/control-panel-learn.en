@@ -14,6 +14,8 @@ exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 
 The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 
+<div id="whats-new-section">
+ 
 ## What's new
 
 * **[Control Panel for hybrid hosting models](/help/control-panel-for-hybrid-hosting-models.md)**
@@ -29,6 +31,17 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
 See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html) for more information on the latest product releases.
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Staff Picks
 
@@ -75,6 +88,8 @@ See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/us
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Additional resources
 
