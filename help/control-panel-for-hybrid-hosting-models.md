@@ -17,4 +17,4 @@ Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, acce
 
 >[!VIDEO](https://video.tv.adobe.com/v/344502?quality=12)
 
-For more information, see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/external-accounts.html).
+For more information, see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html).
