@@ -17,4 +17,4 @@ Learn how to establish a connection from your [!DNL Adobe Campaign] instance to 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information, please see [the product documentation](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html).
+For more information, please see [the product documentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
