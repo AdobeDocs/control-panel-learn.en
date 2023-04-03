@@ -32,4 +32,4 @@ Connecting to SFTP servers requires:
 
 This video explains how to connect to your SFTP Server using a client SFTP application, using the keys you have stored in the Control Panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12&learn=0n)

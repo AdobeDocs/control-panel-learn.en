@@ -18,8 +18,8 @@ Learn how to create a public key and import and install it on a [!DNL Campaign] 
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12&learn=0n)
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12&learn=0n)

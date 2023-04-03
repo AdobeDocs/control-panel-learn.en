@@ -34,7 +34,7 @@ The Certificate Signing Request (CSR) is required for the purchase of an SSL cer
 
  The video below describes how to generate a Certificate Signing Request in Control Panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12&learn=0n)
 
 *Generate Certificate Signing Requests (02:36 min)*
 
@@ -61,7 +61,7 @@ Once you have obtained the SSL certificate, it must be installed for the subdoma
 
 The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12&learn=0n)
 
 *Install SSL Certificates (01:25 min)*
 

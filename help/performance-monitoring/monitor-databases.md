@@ -18,6 +18,6 @@ All your Campaign instance's assets, workflows, and data are stored in the datab
 
 Learn how to monitor your instances' database usage with the [!DNL Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12&learn=0n)
 
 For more information about database monitoring, please see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=en).
