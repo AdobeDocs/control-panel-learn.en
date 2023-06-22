@@ -2,7 +2,7 @@
 title: Get started with Control Panel
 description: Learn how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 feature: Control Panel
-kt: 6388
+jira: KT-6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup

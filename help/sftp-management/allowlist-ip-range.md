@@ -2,7 +2,7 @@
 title: Allowlist an IP range
 description: Learn how you can add an IP address range to the allowlist.
 feature: Control Panel
-kt: 6430
+jira: KT-6430
 thumbnail: 41775.jpg
 doc-type: feature video
 audience: administrator

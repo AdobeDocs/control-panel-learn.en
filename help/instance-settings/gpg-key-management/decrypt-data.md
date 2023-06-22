@@ -2,7 +2,7 @@
 title: Decrypt data
 description: The video below explains how to create a public key and import and install it on a Campaign instance for the decryption of data.
 feature: Control Panel
-kt: 5543
+jira: KT-5543
 thumbnail: 36482.jpg
 doc-type: feature video
 activity: use

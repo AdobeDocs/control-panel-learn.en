@@ -2,7 +2,7 @@
 title: Trouble Shooting Control Panel
 description: Learn how to troubleshoot Control Panel.
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM

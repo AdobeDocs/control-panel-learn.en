@@ -2,7 +2,7 @@
 title: Add URL permissions
 description: Learn how to establish a connection from your Adobe Campaign instance to an external URL.
 feature: Control Panel
-kt: 3259
+jira: KT-3259
 thumbnail: 28149.jpg
 doc-type: feature video
 activity: use

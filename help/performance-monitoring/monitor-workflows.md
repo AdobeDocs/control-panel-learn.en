@@ -2,7 +2,7 @@
 title: Monitor workflows to optimize resource usage
 description: Learn how to monitor the database usage of your instances.
 feature: Control Panel
-kt: 10525
+jira: KT-10525
 thumbnail: 344309.jpg
 doc-type: feature video
 audience: administrator

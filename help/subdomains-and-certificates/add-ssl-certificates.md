@@ -2,7 +2,7 @@
 title: Add SSL certificates
 description: Learn how to add SSL certificates to secure your subdomains.
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use

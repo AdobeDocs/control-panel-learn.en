@@ -2,7 +2,7 @@
 title: Monitor throughputs and latency
 description: Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.
 feature: Control Panel
-kt: 10526
+jira: KT-10526
 thumbnail: 344310.jpg
 doc-type: feature video
 audience: administrator

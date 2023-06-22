@@ -2,7 +2,7 @@
 title: Allowlist IP addresses
 description: Learn how to add an IP range to Adobe Campaign instances' allowlists and how to remove them from the allowlist using the control panel.
 feature: Control Panel
-kt: 3479
+jira: KT-3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use

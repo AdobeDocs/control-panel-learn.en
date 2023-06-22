@@ -2,7 +2,7 @@
 title: Control Panel for Adobe Campaign hybrid hosting models
 description: Learn how to enable Control Panel for hybrid hosting models, access Control Panel, and unlock key features.
 feature: Control Panel
-kt: 10483
+jira: KT-10483
 thumbnail: 344502.jpg
 doc-type: feature video
 activity: use
