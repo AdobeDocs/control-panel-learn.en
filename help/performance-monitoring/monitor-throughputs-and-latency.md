@@ -16,7 +16,7 @@ exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
 
 Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
 
 ## Additional resources
 

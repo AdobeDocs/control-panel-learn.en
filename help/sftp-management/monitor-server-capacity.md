@@ -29,4 +29,4 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
 Learn how to monitor the storage capacity of your SFTP servers.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}

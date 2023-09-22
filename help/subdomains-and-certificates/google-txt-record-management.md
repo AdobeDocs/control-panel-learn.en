@@ -17,4 +17,4 @@ To ensure high inbox rates and low spam rates, some services like Google require
 
 Learn how to add [!UICONTROL Google TXT] site verification records to all your subdomains used to send emails to [!DNL GMAIL] addresses with [!UICONTROL Campaign Control Panel].
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}

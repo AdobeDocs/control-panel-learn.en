@@ -17,4 +17,4 @@ To be able to start sending emails or publish landing pages with Adobe Campaign,
 
 Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}

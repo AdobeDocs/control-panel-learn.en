@@ -28,4 +28,4 @@ To access the SFTP Management in Control Panel, go to:
 
 Learn how to generate an SSH key using a terminal and how to store the public version of the key in the Control Panel.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}

@@ -17,8 +17,8 @@ Learn how to export data using a GPG key installed on Control Panel
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12&learn=0n)
+>[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
