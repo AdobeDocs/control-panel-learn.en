@@ -7,6 +7,7 @@ feature-set: Campaign
 feature: Control Panel
 role: Admin
 level: Experienced
+auto-video-transcripts: true
 ---
 
 # Adobe Campaign Control Panel - Tutorials {#tutorials}
