@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
-solution: Experience Cloud
-product: experience cloud
+solution: Campaign
+product: Campaign
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/control-panel-learn.en
