@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign Control Panel Tutorials
+user-guide-title: Adobe Campaign Control Panel tutorials
 user-guide-description: Learn how to monitor your Adobe Campaign instances' key assets and perform administrative tasks in Control Panel.
 breadcrumb-title: Control Panel Tutorials
 index: yes
@@ -10,9 +10,9 @@ level: Experienced
 auto-video-transcripts: true
 ---
 
-# Adobe Campaign Control Panel - Tutorials {#tutorials}
+# Adobe Campaign Control Panel tutorials {#tutorials}
 
-+ [Control Panel](/help/control-panel-overview.md)
++ [Control Panel tutorials](/help/control-panel-overview.md)
 + [Get started with Control Panel](/help/get-started-with-control-panel.md)
 + [Control Panel for hybrid hosting models](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP management {#sftp-management}
