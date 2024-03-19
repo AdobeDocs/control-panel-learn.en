@@ -5,6 +5,7 @@ feature: Control Panel
 jira: KT-4115
 thumbnail: 31390.jpg
 doc-type: feature video
+last-substantial-update: 2024-03-18
 activity: use
 team: PM
 role: Admin
@@ -28,7 +29,5 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 The video below demonstrates how to delegate subdomains.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
-
-*Subdomain Delegation (05:07 min)*
 
 For more information on renewing a subdomain’s SSL certificate see the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html).
