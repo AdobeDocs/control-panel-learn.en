@@ -2,10 +2,12 @@
 cloud: Experience Cloud
 solution: Campaign
 product: Campaign
+landing-page-name: Campaign
+landing-page-breadcrumb-title: Campaign
 type: Tutorial
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/control-panel-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
