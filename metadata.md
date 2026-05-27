@@ -3,7 +3,8 @@ cloud: Experience Cloud
 solution: Campaign
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-    label: "Campaign"
+    internal-label: "Campaign"
+usetq: true
 product: Campaign
 landing-page-name: Campaign
 landing-page-breadcrumb-title: Campaign
