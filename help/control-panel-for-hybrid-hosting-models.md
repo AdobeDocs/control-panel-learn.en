@@ -10,10 +10,13 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: bdb54553-23e6-4a32-9fc8-47a313fc7179
-TQID: https://experienceleague.adobe.com/C0rq6YHQ6TpcMlFX1ZN5zK0DUv-YMH05vCnB-CXLR-g
+TQID: 'https://experienceleague.adobe.com/C0rq6YHQ6TpcMlFX1ZN5zK0DUv-YMH05vCnB-CXLR-g'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
