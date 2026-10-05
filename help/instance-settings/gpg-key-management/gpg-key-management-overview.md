@@ -6,13 +6,19 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 8cc85dd6-d0ef-47db-be03-45325c547b70
-TQID: https://experienceleague.adobe.com/KL5b2Y2I0sHin-KesKyx3bX5quLVHyrIXrNTI8n-qfc
+TQID: 'https://experienceleague.adobe.com/KL5b2Y2I0sHin-KesKyx3bX5quLVHyrIXrNTI8n-qfc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # GPG key management - Overview
 
